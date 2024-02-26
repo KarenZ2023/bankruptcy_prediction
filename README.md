@@ -36,7 +36,7 @@ The dataset used in this analysis contains financial information and bankruptcy 
    - Utilized confusion matrix and Precision-Recall Curve (PR-AUC) for comprehensive evaluation of model predictive capacity and discriminatory ability.
    - After applying SMOTE to address class imbalance, we constructed several random forest models using different combinations of PCA and kernel methods.
      
-**Note:** Other models such as logistic regression and KNN were also explored by other members of the project team, but their results are not included in this README for brevity.
+**Note:** Other models such as logistic regression and KNN were also explored by other members of the project team, but their results are not included in this README for brevity. This was a course project for GeorgiaTech's CDA course in Summer 2023.
 
 ## Takeaways
 
